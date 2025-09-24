@@ -71,10 +71,10 @@ Here are some of the projects I've contributed to:
 	<strong><a href="https://github.com/spary1144/IntoTheCrops">Into the Crops</a></strong>
 </td>
 <td align="center">
-	<a href="">
+	<a href="https://github.com/spary1144/IntoTheDarkness">
   		<img src="">
 	</a>
-	<strong><a href="">Into the Darkness</a></strong>
+	<strong><a href="https://github.com/spary1144/IntoTheDarkness">Into the Darkness</a></strong>
 </td>
 <td align="center">
 	<a href="https://github.com/spary1144/OutOfSight">
@@ -84,11 +84,6 @@ Here are some of the projects I've contributed to:
 </td>
   </tr>
 </table>
-
-- ☂ **[Lady Umbrella](https://github.com/your-repo)** – Unreal Engine 5.5.3 Combat and Adventure game.
-- 🛠️ **[Into the Crops](https://github.com/your-repo)** – C++/OpenGL/FMod Horror game. Stay out of the Crops!!
-- 🔊 **[Into the Darkness](https://github.com/your-repo)** – Assembly Game about running from a Scary Monster while keeping your light on!
-- 🔊 **[Out of Sight](https://github.com/your-repo)** – Unreal Engine 5.0 Game, audio gameplay - based horror game
 
 ---
 
