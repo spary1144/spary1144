@@ -17,13 +17,15 @@ He/Him
   Although I've worked with different languages, such as Java, JavaScript, C# and more, I try to focus on improving my C++ skills, as I found it one of the best (if not the best) languages for videogames.
   That's why for my final degrees assignment (TFG), I did my first Unreal Engine project, Into the Darkesss, a game that I used as both learning Unreal Engine and trying to make new games concept, such as being guided completly by the sound
 
+  Once I was finished with my degree, I started working on GameHouse, as a Release Engineer (2022/2024), veryfing and automating different tasks for the departments, while giving new features to already developed tools inside the team.
+
   In 2024/2025 I decided to course Programa Avanzado en Programacion, at U-Tad, Madrid, and make Lady Umbrella. This development served as a real approach to the work environment of an indie studio, since there were around 40 of us working together to create this game.
+  
   During this development, I specialized in working close to designers, to make mechanics come to live and try to perfect them to achive the best feel we could. I also worked in making tools for the team, in order to have a better work, such as GitBuild.bat, which nowadays I consider my son! :D
 
 ---
 
 ## 🛠️ Skills & Technologies
-## 🧠 Skills
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -39,21 +41,19 @@ He/Him
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Source Control](https://img.shields.io/badge/Source%20Control-FF4500?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-<img src="https://raw.githubusercontent.com/ocornut/imgui/master/docs/images/extra_readme_logo.png" width="120" alt="Dear ImGui"/>
 
 - Other tools:
 - Middlewares: Fmod Studio, Wwise
 - DAWs: Ableton Live
----
+- IMGUI, SOL2
 
 ## 📂 Projects I've Worked On
 Here are some of the projects I've contributed to:
 
-- 🎮 **[Project Name](https://github.com/your-repo)** – Short description of what it does and your role  
-- 🛠️ **[Project Name](https://github.com/your-repo)** – Another description, e.g. tools, libraries, or utilities  
-- 🔊 **[Project Name](https://github.com/your-repo)** – Focused on audio, gameplay, or experiments  
-
-*(More projects available in my repositories!)*
+- ☂ **[Lady Umbrella](https://github.com/your-repo)** – Unreal Engine 5.5.3 Combat and Adventure game.
+- 🛠️ **[Into the Crops](https://github.com/your-repo)** – C++/OpenGL/FMod Horror game. Stay out of the Crops!!
+- 🔊 **[Into the Darkness](https://github.com/your-repo)** – Assembly Game about running from a Scary Monster while keeping your light on!
+- 🔊 **[Out of Sight](https://github.com/your-repo)** – Unreal Engine 5.0 Game, audio gameplay - based horror game
 
 ---
 
