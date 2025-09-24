@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jorge Marín Ferrándiz</h1>
+<h1 align="center">Hey there! I'm Jorge Marín Ferrándiz</h1>
 <h3 align="center">Videogames Programmer</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  I'm a Videogames Programmer, interested in Gameplay, Tools and Audio programming!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
