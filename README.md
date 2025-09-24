@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! I'm Jorge Marín Ferrándiz</h1>
-<h3 align="center">Videogames Programmer</h3>
 
 <p align="left">
   I'm a Videogames Programmer, interested in Gameplay, Tools and Audio programming!
