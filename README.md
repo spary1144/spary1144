@@ -39,17 +39,11 @@ He/Him
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Source Control](https://img.shields.io/badge/Source%20Control-FF4500?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<img src="https://raw.githubusercontent.com/ocornut/imgui/master/docs/images/extra_readme_logo.png" width="120" alt="Dear ImGui"/>
 
-- C/C++/C#
-- 
-- 🌱 Currently learning more about **engine internals** and **low-level programming**  
-- 💡 Interested in combining **creativity** and **technology** to build engaging experiences  
-- 🤝 Open to collaborating on **open-source projects** and innovative ideas  
-- **Languages:** C++, Lua, Python, C#  
-- **Engines & Frameworks:** Unreal Engine, FMOD, Sol2  
-- **Tools:** Git, Perforce, Visual Studio, Rider  
-- **Other Interests:** Procedural generation, real-time audio, game AI  
-
+- Other tools:
+- Middlewares: Fmod Studio, Wwise
+- DAWs: Ableton Live
 ---
 
 ## 📂 Projects I've Worked On
