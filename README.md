@@ -3,6 +3,8 @@
 I'm a passionate **Videogames Developer** interested in Gameplay, Tools and Sound programming!
 Currently, I'm specializing in **C++**, **Unreal Engine**, and **FMod** while making some **batch** scripts to make my life easier!
 
+I also love playing videogames! My favourite genres are Shooters and Horror games, and as you can see, I try to develope those types of games!
+
 ---
 
 ## 🚀 About Me
@@ -49,6 +51,39 @@ He/Him
 
 ## 📂 Projects I've Worked On
 Here are some of the projects I've contributed to:
+
+## <img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="38"> My work so far!
+
+<table style="width:100%">
+  
+  <tr>
+
+<td align="center">
+	<a href="">
+  		<img src="">
+	</a>
+	<strong><a href="">Lady Umbrella</a></strong>
+</td>
+<td align="center">
+	<a href="https://github.com/spary1144/IntoTheCrops">
+  		<img src="">
+	</a>
+	<strong><a href="https://github.com/spary1144/IntoTheCrops">Into the Crops</a></strong>
+</td>
+<td align="center">
+	<a href="">
+  		<img src="">
+	</a>
+	<strong><a href="">Into the Darkness</a></strong>
+</td>
+<td align="center">
+	<a href="https://github.com/spary1144/OutOfSight">
+  		<img src="">
+	</a>
+	<strong><a href="https://github.com/spary1144/OutOfSight">Out of Sight</a></strong>
+</td>
+  </tr>
+</table>
 
 - ☂ **[Lady Umbrella](https://github.com/your-repo)** – Unreal Engine 5.5.3 Combat and Adventure game.
 - 🛠️ **[Into the Crops](https://github.com/your-repo)** – C++/OpenGL/FMod Horror game. Stay out of the Crops!!
