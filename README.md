@@ -52,7 +52,7 @@ He/Him
 ## 📂 Projects I've Worked On
 Here are some of the projects I've contributed to:
 
-## <img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="38"> My work so far!
+## My work so far!
 
 <table style="width:100%">
   
