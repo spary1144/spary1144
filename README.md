@@ -19,9 +19,9 @@ He/Him
   Although I've worked with different languages, such as Java, JavaScript, C# and more, I try to focus on improving my C++ skills, as I found it one of the best (if not the best) languages for videogames.
   That's why for my final degrees assignment (TFG), I did my first Unreal Engine project, Into the Darkesss, a game that I used as both learning Unreal Engine and trying to make new games concept, such as being guided completly by the sound
 
-  Once I was finished with my degree, I started working on GameHouse, as a Release Engineer (2022/2024), veryfing and automating different tasks for the departments, while giving new features to already developed tools inside the team.
+  I worked in [GameHouse](https://www.gamehouse.com), as a Release Engineer (2022/2024), veryfing and automating different tasks for the departments, while giving new features to already developed tools inside the team.
 
-  In 2024/2025 I decided to course Programa Avanzado en Programacion, at U-Tad, Madrid, and make Lady Umbrella. This development served as a real approach to the work environment of an indie studio, since there were around 40 of us working together to create this game.
+  In 2024/2025 I decided to course Programa Avanzado en Programacion, at [U-Tad](https://u-tad.com), Madrid, and make Lady Umbrella. This development served as a real approach to the work environment of an indie studio, since there were around 40 of us working together to create this game.
   
   During this development, I specialized in working close to designers, to make mechanics come to live and try to perfect them to achive the best feel we could. I also worked in making tools for the team, in order to have a better work, such as GitBuild.bat, which nowadays I consider my son! :D
 
