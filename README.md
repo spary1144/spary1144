@@ -66,7 +66,7 @@ Here are some of the projects I've contributed to:
 </td>
 <td align="center">
 	<a href="https://github.com/spary1144/IntoTheCrops">
-  		<img src="">
+  		<img width="1920" height="1080" alt="IntoTheCrops" src="https://github.com/user-attachments/assets/5acce3b4-9a1a-4ec2-9cbc-34ca6aa6f7ca">
 	</a>
 	<strong><a href="https://github.com/spary1144/IntoTheCrops">Into the Crops</a></strong>
 </td>
