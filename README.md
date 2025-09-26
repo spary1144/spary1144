@@ -30,18 +30,18 @@ He/Him
 ## 🛠️ Skills & Technologies
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/Blueprints-6E4C13?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Source Control](https://img.shields.io/badge/Source%20Control-FF4500?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Source Control](https://img.shields.io/badge/Source%20Control-FF4500?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 - Other tools:
@@ -52,12 +52,8 @@ He/Him
 ## 📂 Projects I've Worked On
 Here are some of the projects I've contributed to:
 
-## My work so far!
-
 <table style="width:100%">
-  
   <tr>
-
 <td align="center">
 	<a href="">
   		<img src="">
@@ -88,9 +84,8 @@ Here are some of the projects I've contributed to:
 ---
 
 ## 📫 Let's Connect
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourprofile)  
+- 🌐 [Portfolio Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jorge-marín-ferrándiz)
 
 ---
 ⭐️ From [Your GitHub Username](https://github.com/your-username)
