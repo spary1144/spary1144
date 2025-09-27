@@ -68,8 +68,7 @@ Here are some of the projects I've contributed to:
 </td>
 <td align="center">
 	<a href="https://github.com/spary1144/IntoTheDarkness">
-  		<img width="1339" height="948" alt="81uyy+" src="https://github.com/user-attachments/assets/6c1b020f-260b-4708-85c9-9ba4bd2004b9" />
-">
+  		<img width="1339" height="948" alt="81uyy+" src="https://github.com/user-attachments/assets/6c1b020f-260b-4708-85c9-9ba4bd2004b9"/>
 	</a>
 	<strong><a href="https://github.com/spary1144/IntoTheDarkness">Into the Darkness</a></strong>
 </td>
