@@ -56,7 +56,7 @@ Here are some of the projects I've contributed to:
   <tr>
 <td align="center">
 	<a href="">
-  		<img src="<img width="1504" height="2125" alt="IMG_5904" src="https://github.com/user-attachments/assets/f3306ba5-520c-4f8f-b43f-2ba78a5fa322">
+  		<img width="1504" height="2125" alt="Lady Umbrella" src="https://github.com/user-attachments/assets/f3306ba5-520c-4f8f-b43f-2ba78a5fa322">
 	</a>
 	<strong><a href="">Lady Umbrella</a></strong>
 </td>
