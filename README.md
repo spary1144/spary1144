@@ -84,7 +84,7 @@ Here are some of the projects I've contributed to:
 ---
 
 ## 📫 Let's Connect
-- 🌐 [Portfolio Website](spary1144.github.io/jorgemarinferrandiz.github.io)
+- 🌐 [Portfolio Website]([spary1144.github.io/jorgemarinferrandiz.github.io](https://spary1144.github.io/jorgemarinferrandiz.github.io/))
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-marín-ferrándiz)
 
 ---
