@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Jorge Marín Ferrándiz
 
-I'm a passionate **Videogames Developer** interested in Gameplay, Tools and Sound programming!
+I'm a passionate **Video games Developer** interested in Gameplay, Tools and Sound programming!
 Currently, I'm specializing in **C++**, **Unreal Engine**, and **FMod** while making some **batch** scripts to make my life easier!
 
-I also love playing videogames! My favourite genres are Shooters and Horror games, and as you can see, I try to develope those types of games!
+I also love playing video games! My favourite genres are Shooters and Horror games, and as you can see, I try to develope those types of games!
 
 ---
 
@@ -11,12 +11,12 @@ I also love playing videogames! My favourite genres are Shooters and Horror game
 
 He/Him
 
-  I studied Multimedia Engineering (2018/2023) in Universidad de Alicante, and specialized in **Videogames**, working with libraries like SFML for C++ developing, making our custom engine, or even programming in Assembly!
+  I studied Multimedia Engineering (2018/2023) in Universidad de Alicante, and specialized in **Video games**, working with libraries like SFML for C++ developing, making our custom engine, or even programming in Assembly!
   While programming is one of my passions, music and sound is my others, and I try to combine them working with Middlewares like Wwise and Fmod (which I'm more comfortable with).
 
   In our 4th year in our degree, some classmates and I developed Into the Woods and Into the Crops. Two games made with Assembly and C++/OpenGL/FMod, programming our own ECS and custom Collisions. 
 
-  Although I've worked with different languages, such as Java, JavaScript, C# and more, I try to focus on improving my C++ skills, as I found it one of the best (if not the best) languages for videogames.
+  Although I've worked with different languages, such as Java, JavaScript, C# and more, I try to focus on improving my C++ skills, as I found it one of the best (if not the best) languages for video games.
   That's why for my final degrees assignment (TFG), I did my first Unreal Engine project, Into the Darkesss, a game that I used as both learning Unreal Engine and trying to make new games concept, such as being guided completly by the sound
 
   I worked in [GameHouse](https://www.gamehouse.com), as a Release Engineer (2022/2024), veryfing and automating different tasks for the departments, while giving new features to already developed tools inside the team.
