@@ -88,4 +88,3 @@ Here are some of the projects I've contributed to:
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-marín-ferrándiz)
 
 ---
-⭐️ From [Your GitHub Username](https://github.com/your-username)
